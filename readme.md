@@ -8,13 +8,8 @@ This is a solution to the [Results summary component challenge on Frontend Mento
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -34,8 +29,6 @@ Users should be able to:
 
 - Solution URL: [Add solution URL here](https://github.com/11-Ace/Result-summary-component-.git)
 - Live Site URL: [Add live site URL here](https://11-ace.github.io/Result-summary-component-/)
-
-## My process
 
 ### Built with
 
