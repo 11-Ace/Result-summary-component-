@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="./assets/images/favicon-32x32.png"
+    />
+
+    <link rel="stylesheet" href="css/main.css" />
+    <title>Frontend Mentor | Results summary component</title>
+    <body>
+      <main
+        class="font-hankenGrotesk flex items-center justify-center h-screen m-auto sm:h-auto"
+      >
+        <!-- Card -->
+        <div
+          class="grid grid-cols-2 h-auto w-largeScreen shadow-2xl rounded-2xl sm:grid-cols-1 sm:rounded-none"
+        >
+          <!-- Left -->
+          <div
+            class="flex flex-col items-center bg-gradient-to-b from-lightSlateBlue to-lightRoyalBlue text-center py-12 rounded-2xl box-border sm:rounded-t-none"
+          >
+            <p class="text-paleBlue text-2xl">Your Result</p>
+            <div
+              class="flex flex-col items-center justify-center w-[200px] h-[200px] bg-gradient-to-b from-violetBlue to-persianBlue my-5 rounded-full"
+            >
+              <h1 class="text-7xl font-extrabold text-white">76</h1>
+              <p class="text-paleBlue">of 100</p>
+            </div>
+            <p class="text-white text-[2rem] font-semibold mb-5">Great</p>
+            <p class="text-paleBlue w-[60%] opacity-75">
+              You scored higher than 65% of the people who have taken these
+              tests.
+            </p>
+          </div>
+          <!-- Right -->
+          <div class="flex flex-col justify-between p-8">
+            <p class="font-semibold text-2xl text-darkGrayBlue">Summary</p>
+            <div class="my-6 overflow-hidden">
+              <!-- Reaction -->
+              <div class="flex justify-between bg-lightRedAlpha p-4 rounded-md">
+                <p class="flex text-lightRed">
+                  <img
+                    src="assets/images/icon-reaction.svg"
+                    alt="reaction icon"
+                    class="block pr-3"
+                  />Reaction
+                </p>
+                <p class="text-darkGrayBlue font-semibold">
+                  80 <span class="opacity-40"> / 100</span>
+                </p>
+              </div>
+              <!-- Memory -->
+              <div
+                class="flex justify-between bg-orangeyYellowAlpha p-4 my-4 rounded-md"
+              >
+                <p class="flex text-orangeyYellow">
+                  <img
+                    src="assets/images/icon-memory.svg"
+                    alt="memory icon"
+                    class="block pr-3"
+                  />Memory
+                </p>
+                <p class="text-darkGrayBlue font-semibold">
+                  92 <span class="opacity-40">/ 100</span>
+                </p>
+              </div>
+              <!-- Verbal -->
+              <div
+                class="flex justify-between bg-greenTealAlpha p-4 my-4 rounded-md"
+              >
+                <p class="flex text-greenTeal">
+                  <img
+                    src="assets/images/icon-verbal.svg"
+                    alt="verbal icon"
+                    class="block pr-3"
+                  />Verbal
+                </p>
+                <p class="text-darkGrayBlue font-semibold">
+                  61 <span class="opacity-40"> / 100</span>
+                </p>
+              </div>
+              <!-- Visual -->
+              <div
+                class="flex justify-between bg-cobaltBlueAlpha p-4 rounded-md"
+              >
+                <p class="flex text-cobaltBlue">
+                  <img
+                    src="assets/images/icon-visual.svg"
+                    alt="visual icon"
+                    class="block pr-3"
+                  />Visual
+                </p>
+                <p class="text-darkGrayBlue font-semibold">
+                  72 <span class="opacity-40"> / 100</span>
+                </p>
+              </div>
+            </div>
+            <button
+              class="text-center text-paleBlue bg-darkGrayBlue py-2 w-full rounded-full hover:bg-lightRoyalBlue"
+            >
+              Continue
+            </button>
+          </div>
+        </div>
+      </main>
+
+      <footer class="text-base text-center mt-4">
+        Challenge by
+        <a
+          href="https://www.frontendmentor.io?ref=challenge"
+          target="_blank"
+          class="text-footerLink"
+          >Frontend Mentor</a
+        >. Coded by <a href="#" class="text-footerLink">Odapu Richard</a>.
+      </footer>
+    </body>
+  </head>
+
+  <!-- box-shadow: 10px 10px 20px 12px hsla(221, 100%, 96%, 0.6); -->
+</html>
