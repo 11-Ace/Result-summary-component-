@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/11-Ace/Result-summary-component-.git)
+- Live Site URL: [Add live site URL here](https://11-ace.github.io/Result-summary-component-/)
 
 ## My process
 
