@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/11-Ace/Result-summary-component-.git)
-- Live Site URL: [Add live site URL here](https://11-ace.github.io/Result-summary-component-/)
+- Solution URL: [Solution](https://github.com/11-Ace/Result-summary-component-.git)
+- Live Site URL: [Link](https://11-ace.github.io/Result-summary-component-/)
 
 ### Built with
 
@@ -37,5 +37,5 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/11-Ace)
-- Twitter - [@yourusername](https://www.twitter.com/@11ace__)
+- Frontend Mentor - [11-Ace](https://www.frontendmentor.io/profile/11-Ace)
+- Twitter - [11Ace\_\_](https://www.twitter.com/@11ace__)
